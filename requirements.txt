@@ -9,6 +9,5 @@ fairscale
 git+https://github.com/openai/CLIP.git
 git+https://github.com/siyuanliii/TrackEval.git
 git+https://github.com/SysCV/tet.git#subdirectory=teta
-git+https://github.com/scalabel/scalabel.git@scalabel-evalAPI
 git+https://github.com/TAO-Dataset/tao
 git+https://github.com/lvis-dataset/lvis-api.git
