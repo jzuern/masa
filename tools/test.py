@@ -20,7 +20,7 @@ project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 sys.path.insert(0, project_root)
 
 import masa
-# import projects.Detic_new.detic
+
 
 # TODO: support fuse_conv_bn and format_only
 def parse_args():
